@@ -8,7 +8,7 @@ Pair    Pct   Score      Section Rank      MPs
   8   51.56   55.69  C   4     1     1    0.56(B)  Rosemay Vazeux - Beau Hovda
  12   47.92   51.75  B         2          0.39(B)  Leah Sieg - Ann Romeo
   5   47.22   51.00  B         3          0.28(B)  Frances Evans - Brett Goldston
-  7   44.44   48.00  A                             Kevin Epley - Alan Tesler
+  7   44.44   48.00  A                             Kevin Epley - Allan Lazar
   3   43.75   47.25  C               2    0.22(C)  Kenna Winston - David Dailey
   1   43.23   46.69  C                             Polly Sidwell - Paul Elliott
   9   43.23   46.69  C                             Bryant Carlson - John York-Erwin
