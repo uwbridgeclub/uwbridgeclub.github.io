@@ -22,4 +22,4 @@ Pair    Pct   Score      Section Rank      MPs
   1   48.86   82.08  B                             Sherry Weinberg - John Weinberg
   3   48.86   82.08  C                             Frances Evans - Brett Goldston
   5   42.90   72.07  C                             David Bauman - Kit Adams
-  7   40.52   68.08  B                             John Emerson - Melinda Westgate
+  7   40.52   68.08  B                             John Emmerson - Melinda Westgate
