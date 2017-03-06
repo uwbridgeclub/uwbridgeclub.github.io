@@ -130,7 +130,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
  4 Ray Miller             Stanford Christie        A    1     .     .    109.58  65.23  0.80(A) 
  5 David Bauman           Kit Adams                C    .     .     .     72.07  42.90          
  6 Beau Hovda             Hugh Hendrikson          B    3     2     .     83.58  49.75  0.40(A) 
- 7 John Emerson           Melinda Westgate         B    .     .     .     68.08  40.52          
+ 7 John Emmerson          Melinda Westgate         B    .     .     .     68.08  40.52          
 
                                           Totals                         587.55       
 
