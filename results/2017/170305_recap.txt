@@ -1,7 +1,7 @@
 
 EVENT>Sunday Evening Pairs     |SESSION>Sunday Eve   |SECTION> W N-S
 ------------------------,------ ------------,-------- --------------------------
-DATE>March 5, 2017      |CLUB NO.>270082    | 03/05/2017 21:38
+DATE>March 5, 2017      |CLUB NO.>270082    | 03/05/2017 23:17
 ---------------------,-- ------------------- -------------,---------------------
 DIR> John Krah       |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -11,16 +11,16 @@ PAIRS IN STRAT A=8/B=6/C=3                       ,---,-------------------------,
 -------------------------------------------------|   |           Section       |      |Section  |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
- 1 Anne Farmer            Daniel Poore             C    2     2     1     90.32  53.76  0.56(A) 
+ 1 Anne Farmer            Daniel Poore             C    1     1     1     92.66  55.15  0.80(A) 
  2 Jay Huff               Nelson Davis             B    3     .     .     89.74  53.42  0.40(A) 
- 3 Galen Hesson           John Massman III         A    .     .     .     81.57  48.55          
- 4 Mike Christensen       Becky Stevens            A    .     .     .     79.24  47.17          
- 5 Rosemay Vazeux         Sandy Freeling           C    .     .     .     66.99  39.88          
- 6 Polly Sidwell          Paul Elliott             C    .     .     .     80.35  47.83          
- 7 Judy Dubester          Larry Li                 B    1     1     .     93.42  55.61  0.80(A) 
- 8 Chris Pesce            Kathy Gilman             B    .     .     .     88.67  52.78          
+ 3 Galen Hesson           John Massman III         A    .     .     .     83.91  49.95          
+ 4 Mike Christensen       Becky Stevens            A    .     .     .     81.57  48.55          
+ 5 Rosemay Vazeux         Sandy Freeling           C    .     .     .     69.32  41.26          
+ 6 Polly Sidwell          Paul Elliott             C    .     .     .     73.04  43.48          
+ 7 Judy Dubester          Larry Li                 B    .     .     .     89.42  53.23          
+ 8 Chris Pesce            Kathy Gilman             B    2     2     .     91.00  54.17  0.56(A) 
 
-                                          Totals                         670.30       
+                                          Totals                         670.66       
 
 
                         **PAIRS**
@@ -53,8 +53,8 @@ BOARD     1     2     3     4     5     6     7     8
    9>     6           3     3     0     3     3     3 
          460   ----  150   150  -110   150   150   150 
 
-  10>     2           2     2     2     6     5     2 
-       -1430   -----1430 -1430 -1430  -620  -650 -1430 
+  10>     4           4     4     4     0     1     4 
+        1430   ---- 1430  1430  1430   620   650  1430 
 
   11>     1           0     4     4     2     4     6 
          140   ----  110   170   170   150   170   420 
@@ -114,7 +114,7 @@ BOARD     1     2     3     4     5     6     7     8
 
 EVENT>Sunday Evening Pairs     |SESSION>Sunday Eve   |SECTION> W E-W
 ------------------------,------ ------------,-------- --------------------------
-DATE>March 5, 2017      |CLUB NO.>270082    | 03/05/2017 21:38
+DATE>March 5, 2017      |CLUB NO.>270082    | 03/05/2017 23:17
 ---------------------,-- ------------------- -------------,---------------------
 DIR> John Krah       |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -124,15 +124,15 @@ PAIRS IN STRAT A=8/B=6/C=3                       ,---,-------------------------,
 -------------------------------------------------|   |           Section       |      |Section  |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
- 1 Sherry Weinberg        John Weinberg            B   3/5   2/4    .     84.08  50.05  0.28(A) 
- 2 John York-Erwin        Laura Tuck               C   3/5   2/4   1/2    84.08  50.05  0.28(A) 
- 3 Frances Evans          Brett Goldston           C   3/5   2/4   1/2    84.08  50.05  0.28(A) 
- 4 Ray Miller             Stanford Christie        A    1     .     .    105.58  62.85  0.80(A) 
- 5 David Bauman           Kit Adams                C    .     .     .     74.15  44.14          
- 6 Beau Hovda             Hugh Hendrikson          B    2     1     .     85.58  50.94  0.56(A) 
- 7 John Emerson           Melinda Westgate         B    .     .     .     70.08  41.71          
+ 1 Sherry Weinberg        John Weinberg            B    .     .     .     82.08  48.86          
+ 2 John York-Erwin        Laura Tuck               C    2     1     1     90.08  53.62  0.56(A) 
+ 3 Frances Evans          Brett Goldston           C    .     .     .     82.08  48.86          
+ 4 Ray Miller             Stanford Christie        A    1     .     .    109.58  65.23  0.80(A) 
+ 5 David Bauman           Kit Adams                C    .     .     .     72.07  42.90          
+ 6 Beau Hovda             Hugh Hendrikson          B    3     2     .     83.58  49.75  0.40(A) 
+ 7 John Emerson           Melinda Westgate         B    .     .     .     68.08  40.52          
 
-                                          Totals                         587.63       
+                                          Totals                         587.55       
 
 
                      **PAIRS**
@@ -165,8 +165,8 @@ BOARD     1     2     3     4     5     6     7
    9>     3     3     3     3     3     0     6 
         -150  -150  -150  -150  -150  -460   110 
 
-  10>     4     0     4     1     4     4     4 
-        1430   620  1430   650  1430  1430  1430 
+  10>     2     6     2     5     2     2     2 
+       -1430  -620 -1430  -650 -1430 -1430 -1430 
 
   11>     0     4     6     2     2     5     2 
         -420  -150  -110  -170  -170  -140  -170 
