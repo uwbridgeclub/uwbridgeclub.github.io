@@ -4,12 +4,12 @@ Scores after 27 boards  Average:   54.0      Section  U
 Pair    Pct   Score      Section Rank      MPs     
                          A     B     C  
   7   60.19   65.00  A   1                1.00(A)  Aaron Mohrman - Ray Miller
-  1   56.94   61.50  C   2     1     1    0.70(A)  Tom Sparks - Kevin Epley
-  6   54.17   58.50  B   3     2          0.50(A)  Mary Hanson - Bruce Scharf
-  4   52.31   56.50  C   4           2    0.35(A)  Rosemay Vazeux - Tony Marshall
-  3   50.00   54.00  C                             Kit Adams - David Bauman
-  8   49.54   53.50  A                             Nelson Davis - Alex Woo
- 10   47.69   51.50  A                             Kenna Winston - Ann Romeo
-  2   45.83   49.50  C                             Cindy Wu - Jessie Cai
-  9   45.37   49.00  B                             Daniel Poore - Tracey Guice
-  5   37.96   41.00  A                             Hugh Hendrikson - Beau Hovda
+  1   58.80   63.50  C   2     1     1    0.70(A)  Tom Sparks - Kevin Epley
+  6   56.94   61.50  B   3     2          0.50(A)  Mary Hanson - Bruce Scharf
+  4   49.54   53.50  C  4/5          2    0.28(A)  Rosemay Vazeux - Tony Marshall
+  8   49.54   53.50  A  4/5               0.28(A)  Nelson Davis - Alex Woo
+  2   48.61   52.50  C                             Cindy Wu - Jessie Cai
+  3   47.22   51.00  C                             Kit Adams - David Bauman
+ 10   45.83   49.50  A                             Kenna Winston - Ann Romeo
+  5   41.67   45.00  A                             Hugh Hendrikson - Beau Hovda
+  9   41.67   45.00  B                             Daniel Poore - Tracey Guice
